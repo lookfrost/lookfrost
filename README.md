@@ -18,7 +18,7 @@ Hey, I'm **Ilyas** (callsign: Frost) — 18, Casablanca. I build things, break t
 
 **Morning Brief Automation** — OpenClaw agent on frostserver delivering daily briefs via WhatsApp: Casablanca weather, tech news, gaming news, + personalized notes. Running on Kimi-k2.5 cloud model.
 
-**CV Website** — Personal portfolio and CV site showcasing projects and experience.
+**CV Website** — [lookfrost.github.io](https://lookfrost.github.io/) — Personal portfolio and CV site showcasing projects and experience.
 
 ---
 
@@ -26,6 +26,7 @@ Hey, I'm **Ilyas** (callsign: Frost) — 18, Casablanca. I build things, break t
 
 - **GitHub**: You're here
 - **Steam**: [LookFrost](https://steamcommunity.com/id/LookFrost/)
+- **Email**: [ilyasmohaimel@gmail.com](mailto:ilyasmohaimel@gmail.com) / [ilyasmohaimel@tutamail.com](mailto:ilyasmohaimel@tutamail.com)
 
 ---
 
