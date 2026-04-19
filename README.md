@@ -8,7 +8,7 @@ Hey, I'm **Ilyas** (callsign: Frost) — 18, Casablanca. I build things, break t
 
 **Gaming** — Story-driven, cinematic, immersive. Loved: The Last of Us, SOMA, God of War (2018), Elden Ring, Control, Cyberpunk 2077, Ghost of Tsushima. Basically anything with a strong narrative, mood, or world that makes you feel something.
 
-**Linux** — Arch Linux / EndeavourOS enthusiast. Desktop environments: KDE Plasma, GNOME, Sway, bspwm, Awesome, and a bunch of others I've either loved or ditched (RIP Hyprland, we had fun). Deep dive into customization and ricing.
+**Linux** — Arch Linux / EndeavourOS enthusiast. Cycled through Qtile, Hyprland, KDE Plasma, and a bunch of others exploring different workflows. Deep dive into customization and ricing.
 
 **Tech & AI** — Self-hosting (frostserver), local models (Qwen2.5 7B), automation with OpenClaw. Built a React-based Duolingo English Test practice app; scored 120.
 
