@@ -30,12 +30,4 @@ Hey, I'm **Ilyas** (callsign: Frost) — 18, Casablanca. I build things, break t
 
 ---
 
-## Fun facts
-
-- Troubleshot my own Explorer.exe black-screen boot failure (Windows loves me sometimes)
-- Jailbroke a PS3, formatted it twice, still got it working
-- Spent way too much time optimizing game performance on limited hardware
-
----
-
 *Currently building and gaming. Last updated April 2026.*
